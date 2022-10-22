@@ -1,0 +1,7 @@
+body{
+ height: 100vh; /*Tudo que é visivel na altura*/
+ background: linear-gradient(90deg, #cad8052d, #cad8052d 30%, #000a 50%, #0000), 
+ url(../img/background.jpg);
+ background-repeat: no-repeat;
+ background-size: cover; 
+}
