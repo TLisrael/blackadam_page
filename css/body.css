@@ -8,6 +8,7 @@ body{
  background: linear-gradient(90deg, #07070771, #f2a0074d 30%, #000a 50%, #0000), 
  url(../img/background.jpg);
  background-repeat: no-repeat;
+ background-position: right;
  background-size: cover;
  animation: zoom 1.5s;
 
