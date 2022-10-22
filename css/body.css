@@ -1,0 +1,12 @@
+body{
+ height: 100vh; /*Tudo que é visivel na altura*/
+ background: linear-gradient(90deg, #07070771, #ffee0071 30%, #000a 50%, #0000), 
+ url(../img/background.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+ display: flex;
+ flex-direction: column;
+ padding: 80px 128px 50px 120px;
+
+
+}
